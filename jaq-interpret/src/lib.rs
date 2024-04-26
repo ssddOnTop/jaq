@@ -48,7 +48,7 @@ extern crate std;
 
 mod box_iter;
 pub mod error;
-mod filter;
+pub mod filter;
 mod hir;
 mod into_iter;
 mod lir;
